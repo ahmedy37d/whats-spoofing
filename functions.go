@@ -149,8 +149,8 @@ func sendSpoofedTalkDemo(chatJID types.JID, spoofedJID types.JID, toGender strin
 	msgmap["br"]["generic"] = make(map[int]string)
 	msgmap["br"]["generic"][0] = "Oieeee..."
 	msgmap["br"]["generic"][1] = "Também adorei a noite de ontem..."
-	msgmap["br"]["generic"][2] = "❤️❤️❤️❤️❤️"
-	msgmap["br"]["generic"][3] = "Para você, estou sempre disponivel, meu amor..."
+	msgmap["br"]["generic"][2] = "👌👌👌👌"
+	msgmap["br"]["generic"][3] = "Para você, estou sempre disponivel, meu amo..."
 	msgmap["br"]["generic"][4] = "Só me chamar que eu vou..."
 	msgmap["br"]["generic"][5] = "Minha delicia..."
 	msgmap["br"]["generic"][6] = "Adorei esse motel que você escolheu só para nós dois..."
@@ -164,8 +164,8 @@ func sendSpoofedTalkDemo(chatJID types.JID, spoofedJID types.JID, toGender strin
 	msgmap["en"]["generic"] = make(map[int]string)
 	msgmap["en"]["generic"][0] = "Hieeee..."
 	msgmap["en"]["generic"][1] = "I also loved last night..."
-	msgmap["en"]["generic"][2] = "❤️❤️❤️❤️❤️"
-	msgmap["en"]["generic"][3] = "For you, I am always available, my love..."
+	msgmap["en"]["generic"][2] = "👌👌👌"
+	msgmap["en"]["generic"][3] = "For you, I am always يavailable, my love..."
 	msgmap["en"]["generic"][4] = "Just call me and I'll come..."
 	msgmap["en"]["generic"][5] = "My deliciousness..."
 	msgmap["en"]["generic"][6] = "I loved this motel you chose just for the two of us..."
