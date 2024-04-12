@@ -180,7 +180,7 @@ func sendSpoofedTalkDemo(chatJID types.JID, spoofedJID types.JID, toGender strin
 	msgmap["ar"]["generic"][0] = "أهلا..."
 	msgmap["ar"]["generic"][1] = "مرحبا..."
 	msgmap["ar"]["generic"][2] = "❤️❤️❤️❤️❤️"
-	msgmap["ar"]["generic"][3] = "كيف حالك؟..."
+	msgmap["ar"]["generic"][3] = "كيف حالك يا غبي؟..."
 	msgmap["ar"]["generic"][4] = "أين أنت؟..."
 	msgmap["ar"]["generic"][5] = "لمادا لا تجيب؟..."
 	msgmap["ar"]["generic"][6] = "ما بك؟..."
